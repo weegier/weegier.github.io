@@ -21,13 +21,13 @@ en: &DEFAULT_EN
     text: ""
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "E-Commerce<br>Services"
         desc: "Sell our self-developed products to consumers around the world"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Manufacturing Services"
+      - title: "Manufacturing<br>Services"
         desc: "Provide customers with hardware, wood products, plastics, clothing, shoes, hats and other manufacturing services"
         icon: fas fa-laptop
-      - title: "Procurement Consulting Services"
+      - title: "Procurement Consulting<br>Services"
         desc: "We are your trusted procurement consultants, helping you purchase the items you need and provide quality services"
         icon: fab fa-markdown
 
@@ -66,7 +66,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Looking forward to working with you!"
+    end: "Look forward to working with you!"
 
   about:
     title: "About Us"
