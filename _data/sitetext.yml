@@ -21,14 +21,14 @@ en: &DEFAULT_EN
     text: ""
     section: services
     list:
-      - title: "E-Commerce<br>Services"
-        desc: "Sell our self-developed products to consumers around the world"
+      - title: "CNC<br>Milling"
+        desc: "CNC milling is a machine process which produces custom-designed parts or components by progressively removing material from the workpiece using rotating multi-point cutting tools and computerized controls. These systems usually have three linear degrees of freedom. They can move freely around the X, Y, and Z axes while the workpiece remains stationary. This limited dimensional operation reduces the speed of operations, making milling more suitable for prototyping and smaller production runs."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Manufacturing<br>Services"
-        desc: "Provide customers with hardware, wood products, plastics, clothing, shoes, hats and other manufacturing services"
+      - title: "CNC<br>Turning"
+        desc: "CNC turning is a manufacturing process that involves holding bars of material in a chuck and rotating them while feeding a tool to the piece to remove material until the desired shape is achieved. As the desired shape is achieved through the removal of material, it is also known as subtraction machining."
         icon: fas fa-laptop
-      - title: "Procurement Consulting<br>Services"
-        desc: "We are your trusted procurement consultants, helping you purchase the items you need and provide quality services"
+      - title: "CNC<br>Woodworking"
+        desc: "Milling and Turning are not only used in metal parts, but also widely used in wood products、Electrical industry、Electrical discharge machining (EDM)、Metal removing (in automotive or manufacturing)、Material fabrication and so on."
         icon: fab fa-markdown
 
   portfolio:
@@ -46,23 +46,23 @@ en: &DEFAULT_EN
     events:
       - title: "Accumulation of knowledge and experience"
         year: "2007-2017"
-        desc: "We start our learning journey in the manufacturing industry, humble, serious and diligent in learning."
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "Self-developed first product"
-        year: "2018"
-        desc: "We have developed our own products, which is a historic event, which has accumulated rich experience for us to develop more products."
+        desc: "We start our learning journey in the manufacturing industry, humble, serious and diligent in learning. In actual work, accumulated rich experience."
         image: assets/img/timeline/3.jpg
         alt:
-      - title: "With the first purchasing customer"
+      - title: "Opened a branch"
+        year: "2018"
+        desc: "We have opened a new branch, which is responsible for the development of the global business. This is a historic event, marking our service to the world, to provide better services to global customers."
+        image: assets/img/timeline/7.jpg
+        alt:
+      - title: "Purchased the first 5-axis cnc machine"
         year: "2019"
-        desc: "This is a customer from the United States who successfully helped him source the parts he needed."
-        image: assets/img/timeline/2.jpg
+        desc: "The first 5-axis CNC machine means that we can produce more complex parts, meet higher-level production requirements, and serve a wider customer base. Our production capacity has been greatly improved."
+        image: assets/img/timeline/5.jpg
         alt: image alt text
-      - title: "Got a big order"
+      - title: "30 customers worldwide"
         year: "2020"
-        desc: "We have successfully won a large order from a global top 500 company and are still cooperating today. In this cooperation, we have greatly improved our own production capacity, quality control ability and customer service ability."
-        image: assets/img/timeline/4.jpg
+        desc: "We have successfully won orders from many global top 500 companies and are still cooperating today. In these cooperation, we have greatly improved our own production capacity, quality control ability and customer service ability."
+        image: assets/img/timeline/2.jpg
         alt:
         # you can enforce the alignment
         align: right
@@ -71,10 +71,13 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "We are a company integrating e-commerce and manufacturing. In the manufacturing industry, we have more than 15 years of manufacturing experience and are good at producing hardware accessories and wood products. Our customers come from many countries and our business is all over the world. In the cooperation with customers, both parties have achieved rapid growth. We hope our superb production technology can create value for customers.
-     At the same time, we also have many self-developed products, which are sold all over the world through various sales channels, and are loved by many consumers, who have become loyal users.
-     We also provide customers with procurement consulting services, solve the problems of raw material procurement, semi-finished product procurement, and finished product procurement for customers, and have won the trust and appreciation of customers.
-     We sincerely hope to cooperate with you."
+    body: "We are a manufacturing company in China, we have our own CNC machines, a solid team of cooperative suppliers, and a mature production supply chain located in China, which enables us to produce high-quality, High-demanding parts and finished products.
+    <br>
+    In the manufacturing industry, we have more than 15 years of experience in manufacturing, especially in the production of metal parts and wood products. Our customers come from many countries, and both we and our customers have achieved rapid growth in the cooperation. We hope our mature production technology can create value for customers.
+    <br>
+    At the same time, we also provide customers with procurement consulting services, solve the problems of raw material procurement, semi-finished product procurement, and finished product procurement for customers, and have won the trust and appreciation of customers.
+    <br>
+    We sincerely hope to cooperate with you."
     section: about
 
 
@@ -89,7 +92,7 @@ en: &DEFAULT_EN
         image: assets/img/team/2.jpg
 
       - name: "Yan"
-        role: "Production Manager"
+        role: "Producing Manager"
         image: assets/img/team/2.jpg
 
       - name: "Piao"
@@ -100,6 +103,7 @@ en: &DEFAULT_EN
   contact:
     title: "Contact Us"
     text: "Feel free to contact us"
+
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
